@@ -47,7 +47,7 @@ UpgradePipPackages.main()
  - [Pypi](https://pypi.org/project/UpgradePipPackages)
  - [Github](https://github.com/mauricelambert/UpgradePipPackages)
  - [Documentation](https://mauricelambert.github.io/info/python/code/UpgradePipPackages.html)
- - [Python executable](https://mauricelambert.github.io/python/code/UpgradePipPackages.pyz)
+ - [Python executable](https://mauricelambert.github.io/info/python/code/UpgradePipPackages.pyz)
 
 ## License
 Licensed under the [GPL, version 3](https://www.gnu.org/licenses/).
