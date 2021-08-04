@@ -17,10 +17,10 @@ setup(
     long_description_content_type="text/markdown",
     url=package.__url__,
     project_urls={
-        "Executable": "https://mauricelambert.github.io/python/code/UpgradePipPackages.pyz",
+        "Executable": "https://mauricelambert.github.io/info/python/code/UpgradePipPackages.pyz",
         "Documentation": "https://mauricelambert.github.io/info/python/code/UpgradePipPackages.html",
     },
-    download_url="https://mauricelambert.github.io/python/code/UpgradePipPackages.pyz",
+    download_url="https://mauricelambert.github.io/info/python/code/UpgradePipPackages.pyz",
  
     include_package_data=True,
  
