@@ -1,0 +1,80 @@
+Metadata-Version: 2.1
+Name: UpgradePipPackages
+Version: 0.0.1
+Summary: This file updates all python packages in this environment.
+Home-page: https://github.com/mauricelambert/UpgradePipPackages
+Author: Maurice Lambert
+Author-email: mauricelambert434@gmail.com
+Maintainer: Maurice Lambert
+Maintainer-email: mauricelambert434@gmail.com
+License: GPL-3.0 License
+Download-URL: https://mauricelambert.github.io/python/code/UpgradePipPackages.pyz
+Project-URL: Executable, https://mauricelambert.github.io/python/code/UpgradePipPackages.pyz
+Project-URL: Documentation, https://mauricelambert.github.io/info/python/code/UpgradePipPackages.html
+Description: # UpgradePipPackages
+        
+        ## Description
+        
+        This package is a tool to upgrade python packages faster and easiest.
+        
+        ## Requirements
+        This package require:
+         - python3
+         - python3 Standard Library
+        
+        ## Installation
+        ```bash
+        pip install UpgradePipPackages
+        ```
+        
+        ## Usages
+        
+        ### Command line
+        
+        ```bash
+        pipupgrade -h                                # Help message
+        pipupgrade --help                            # Help message
+        
+        pipupgrade                                   # Upgrade all packages
+        
+        pipupgrade WebScripts UpgradePipPackages     # Upgrade WebScripts and UpgradePipPackages only
+        
+        pipupgrade                                   # Upgrade all packages, using command line
+        python3 -m UpgradePipPackages                # Upgrade all packages, using python package
+        python3 UpgradePipPackages.pyz               # Upgrade all packages, using python executable
+        ```
+        
+        ### Python script
+        
+        ```python
+        from UpgradePipPackages import main
+        main()
+        ```
+        
+        ```python
+        import UpgradePipPackages
+        UpgradePipPackages.main()
+        ```
+        
+        ## Links
+         - [Pypi](https://pypi.org/project/UpgradePipPackages)
+         - [Github](https://github.com/mauricelambert/UpgradePipPackages)
+         - [Documentation](https://mauricelambert.github.io/info/python/code/UpgradePipPackages.html)
+         - [Python executable](https://mauricelambert.github.io/python/code/UpgradePipPackages.pyz)
+        
+        ## License
+        Licensed under the [GPL, version 3](https://www.gnu.org/licenses/).
+Keywords: Pip,Upgrade,Packages
+Platform: Windows
+Platform: Linux
+Platform: MacOS
+Classifier: Programming Language :: Python
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Environment :: Console
+Classifier: Operating System :: MacOS :: MacOS X
+Classifier: Operating System :: Microsoft :: Windows
+Classifier: Operating System :: POSIX
+Classifier: Natural Language :: English
+Classifier: Programming Language :: Python :: 3.9
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown

@@ -1,0 +1,9 @@
+MANIFEST.in
+README.md
+UpgradePipPackages.py
+setup.py
+UpgradePipPackages.egg-info/PKG-INFO
+UpgradePipPackages.egg-info/SOURCES.txt
+UpgradePipPackages.egg-info/dependency_links.txt
+UpgradePipPackages.egg-info/entry_points.txt
+UpgradePipPackages.egg-info/top_level.txt
