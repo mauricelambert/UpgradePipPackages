@@ -49,5 +49,10 @@ UpgradePipPackages.main()
  - [Documentation](https://mauricelambert.github.io/info/python/code/UpgradePipPackages.html)
  - [Python executable](https://mauricelambert.github.io/info/python/code/UpgradePipPackages.pyz)
 
+## Pictures
+
+![Kali not asynchronous](https://mauricelambert.github.io/info/python/code/pipupgrade2.png "Kali not asynchronous")
+![Windows asynchronous](https://mauricelambert.github.io/info/python/code/pipupgrade1.png "Windows asynchronous")
+
 ## License
 Licensed under the [GPL, version 3](https://www.gnu.org/licenses/).

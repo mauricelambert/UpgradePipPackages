@@ -1,6 +1,6 @@
 Metadata-Version: 2.1
 Name: UpgradePipPackages
-Version: 0.0.1
+Version: 0.0.2
 Summary: This file updates all python packages in this environment.
 Home-page: https://github.com/mauricelambert/UpgradePipPackages
 Author: Maurice Lambert
@@ -61,6 +61,11 @@ Description: # UpgradePipPackages
          - [Github](https://github.com/mauricelambert/UpgradePipPackages)
          - [Documentation](https://mauricelambert.github.io/info/python/code/UpgradePipPackages.html)
          - [Python executable](https://mauricelambert.github.io/info/python/code/UpgradePipPackages.pyz)
+        
+        ## Pictures
+        
+        ![Kali not asynchronous](https://mauricelambert.github.io/info/python/code/pipupgrade2.png "Kali not asynchronous")
+        ![Windows asynchronous](https://mauricelambert.github.io/info/python/code/pipupgrade1.png "Windows asynchronous")
         
         ## License
         Licensed under the [GPL, version 3](https://www.gnu.org/licenses/).
